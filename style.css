@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+body {
+    background-color: peachpuff;
+    font-family: 'Ranchers', cursive;
+}
+
+h2 {
+    color: brown;
+    text-decoration: underline;
+}
+
+button {
+    background-color: brown;
+    color: white;
+    font-size: 120%;
+}
